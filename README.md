@@ -5,4 +5,5 @@ This program was created to practice Javascript, HTML, CSS, React library, Java,
 
 # Screenshots
 
+![image](https://user-images.githubusercontent.com/109473854/197053679-09200353-92d6-4559-b1a4-3e9686feafc1.png)
 
